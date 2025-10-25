@@ -2,5 +2,10 @@
     "What is this space?": "Hello Maker Studio is one of three Makerspaces on campus. A Makerspace is a space where you can make things. More specifically, you can learn to 3D print, laser cut, sew, craft, and more.",
     "Where are the other MakerSpaces?": "The other Makerspaces are Texas Invention Works, known as TIW, and the Foundary. TIW is located in the EER and the Foundary is located in the Fine Arts Library.",
     "How do I get trained?": "Scan one of the QR codes on the wall and fill out the Qualtrics survey. Many questions are optional. Once you finish it, you will be sent an invite to enroll in the canvas course. Our training procedure is located there.",
-    "Is this free?": "If you are making a personal project, yes, almost everything is free. If you are making a project for a faculty member or PI, they need to pay for materials."
+    "Is this free?": "If you are making a personal project, yes, almost everything is free. If you are making a project for a faculty member or PI, they need to pay for materials.",
+    "What are your hours?": "Monday-Thursday we are open 11AM-5PM. Friday we close at 3PM.",
+    "Can I work here?": "Almost all of our staff are undergraduate students. We offer pay and credit options. Ask a staff member for more information.",
+    "Can you make something for me?": "No, the space functions like a library. We do not make things for people, but instead teach them how to make things for themselves.",
+    "Can faculty make items?": "Yes, you or one of your graduate or undergraduate students simply needs to complete the canvas training. However, you, or the PI needs to pay for the materials you use.",
+    "Are there printing restrictions?": "In terms of filament? No. Consult a staff member if your print is over 250g. They may send it off on our Ultimaker printers. In terms of items printed? Yes. No weapons!"
 }
